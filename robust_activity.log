@@ -25,3 +25,4 @@ Robust Activity at 2023-01-20T18:28:20: Add support for transformer-based models
 Robust Activity at 2023-01-20T09:19:52: Update README with new performance metrics
 Robust Activity at 2023-01-20T09:09:55: Fix race condition in data pipeline
 Robust Activity at 2023-01-23T09:58:11: Initial prototype for feature extraction
+Robust Activity at 2023-01-23T14:55:30: Improve documentation for API endpoints
