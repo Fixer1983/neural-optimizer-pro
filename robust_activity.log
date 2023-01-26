@@ -35,3 +35,4 @@ Robust Activity at 2023-01-25T09:55:39: Initial prototype for feature extraction
 Robust Activity at 2023-01-25T14:36:52: Benchmark inference latency across devices
 Robust Activity at 2023-01-25T10:51:33: Update README with new performance metrics
 Robust Activity at 2023-01-25T14:37:33: Enhance logging for debugging production issues
+Robust Activity at 2023-01-26T09:35:14: Add support for multi-GPU training
