@@ -90,3 +90,4 @@
 2023 Activity at 2023-02-07T09:29:07: Improve model serialization and loading
 2023 Activity at 2023-02-07T15:21:56: Add support for transformer-based models
 2023 Activity at 2023-02-07T11:23:27: Clean up unused variables and functions
+2023 Activity at 2023-02-07T15:44:21: Optimize GPU memory allocation
