@@ -139,3 +139,4 @@
 2023 Activity at 2023-02-23T14:54:01: Add unit tests for core modules
 2023 Activity at 2023-02-27T12:24:59: Update README with new performance metrics
 2023 Activity at 2023-02-27T15:13:40: Improve model serialization and loading
+2023 Activity at 2023-02-27T13:21:14: Add support for multi-GPU training
