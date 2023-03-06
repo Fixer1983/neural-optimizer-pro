@@ -152,3 +152,4 @@
 2023 Activity at 2023-03-06T18:53:58: Fix bug in loss function calculation
 2023 Activity at 2023-03-06T17:26:15: Merge feature branch into main
 2023 Activity at 2023-03-06T15:31:25: Merge feature branch into main
+2023 Activity at 2023-03-06T13:00:40: Refactor data loader for faster training
