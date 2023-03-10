@@ -165,3 +165,4 @@
 2023 Activity at 2023-03-10T17:27:00: Add support for transformer-based models
 2023 Activity at 2023-03-10T17:48:18: Add unit tests for core modules
 2023 Activity at 2023-03-10T17:24:24: Benchmark inference latency across devices
+2023 Activity at 2023-03-10T11:42:58: Clean up unused variables and functions
