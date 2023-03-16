@@ -103,3 +103,4 @@ Robust Activity at 2023-03-16T11:20:37: Initial prototype for feature extraction
 Robust Activity at 2023-03-16T09:36:12: Benchmark inference latency across devices
 Robust Activity at 2023-03-16T13:24:43: Add unit tests for core modules
 Robust Activity at 2023-03-16T18:12:46: Benchmark inference latency across devices
+Robust Activity at 2023-03-16T13:32:22: Optimize GPU memory allocation
