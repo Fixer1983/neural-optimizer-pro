@@ -190,3 +190,4 @@
 2023 Activity at 2023-03-17T17:33:00: Fix race condition in data pipeline
 2023 Activity at 2023-03-17T14:25:10: Refactor data loader for faster training
 2023 Activity at 2023-03-17T15:19:37: Clean up unused variables and functions
+2023 Activity at 2023-03-17T12:01:11: Benchmark inference latency across devices
