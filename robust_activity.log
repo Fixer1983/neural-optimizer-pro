@@ -109,3 +109,4 @@ Robust Activity at 2023-03-17T12:48:00: Initial prototype for feature extraction
 Robust Activity at 2023-03-17T12:46:03: Improve model serialization and loading
 Robust Activity at 2023-03-17T17:13:56: Initial prototype for feature extraction
 Robust Activity at 2023-03-20T12:14:34: Refactor data loader for faster training
+Robust Activity at 2023-03-20T14:11:12: Clean up unused variables and functions
