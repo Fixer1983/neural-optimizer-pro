@@ -223,3 +223,4 @@
 2023 Activity at 2023-03-23T09:01:55: Fix bug in loss function calculation
 2023 Activity at 2023-03-23T14:32:55: Fix bug in loss function calculation
 2023 Activity at 2023-03-23T11:15:44: Refactor data loader for faster training
+2023 Activity at 2023-03-27T11:57:24: Clean up unused variables and functions
