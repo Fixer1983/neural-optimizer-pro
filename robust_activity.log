@@ -125,3 +125,4 @@ Robust Activity at 2023-03-24T17:21:51: Refactor data loader for faster training
 Robust Activity at 2023-03-24T15:56:19: Fix bug in loss function calculation
 Robust Activity at 2023-03-24T18:15:41: Improve model serialization and loading
 Robust Activity at 2023-03-28T11:42:04: Update README with new performance metrics
+Robust Activity at 2023-03-28T17:58:47: Address code review feedback
