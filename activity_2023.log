@@ -251,3 +251,4 @@
 2023 Activity at 2023-04-03T13:42:29: Initial prototype for feature extraction
 2023 Activity at 2023-04-03T10:09:14: Add unit tests for core modules
 2023 Activity at 2023-04-03T16:45:13: Optimize GPU memory allocation
+2023 Activity at 2023-04-03T15:56:39: Clean up unused variables and functions
