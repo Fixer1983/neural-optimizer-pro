@@ -249,3 +249,4 @@
 2023 Activity at 2023-04-03T13:53:21: Improve documentation for API endpoints
 2023 Activity at 2023-04-03T14:17:31: Add support for multi-GPU training
 2023 Activity at 2023-04-03T13:42:29: Initial prototype for feature extraction
+2023 Activity at 2023-04-03T10:09:14: Add unit tests for core modules
