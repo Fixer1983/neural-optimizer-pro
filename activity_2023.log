@@ -246,3 +246,4 @@
 2023 Activity at 2023-03-30T09:25:06: Refactor data loader for faster training
 2023 Activity at 2023-03-30T19:43:36: Refactor data loader for faster training
 2023 Activity at 2023-03-30T10:29:23: Benchmark inference latency across devices
+2023 Activity at 2023-04-03T13:53:21: Improve documentation for API endpoints
