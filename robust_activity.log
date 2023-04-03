@@ -127,3 +127,4 @@ Robust Activity at 2023-03-24T18:15:41: Improve model serialization and loading
 Robust Activity at 2023-03-28T11:42:04: Update README with new performance metrics
 Robust Activity at 2023-03-28T17:58:47: Address code review feedback
 Robust Activity at 2023-03-28T11:40:28: Add support for multi-GPU training
+Robust Activity at 2023-04-03T10:28:19: Add support for transformer-based models
