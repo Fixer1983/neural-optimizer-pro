@@ -159,3 +159,4 @@ Robust Activity at 2023-04-19T18:35:48: Benchmark inference latency across devic
 Robust Activity at 2023-04-19T11:41:17: Fix bug in loss function calculation
 Robust Activity at 2023-04-19T14:14:37: Benchmark inference latency across devices
 Robust Activity at 2023-04-19T13:11:55: Optimize GPU memory allocation
+Robust Activity at 2023-04-19T16:55:41: Improve model serialization and loading
