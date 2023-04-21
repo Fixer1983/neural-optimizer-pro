@@ -168,3 +168,4 @@ Robust Activity at 2023-04-20T09:05:35: Optimize GPU memory allocation
 Robust Activity at 2023-04-21T18:26:54: Update README with new performance metrics
 Robust Activity at 2023-04-21T18:22:33: Address code review feedback
 Robust Activity at 2023-04-21T12:08:14: Optimize GPU memory allocation
+Robust Activity at 2023-04-21T16:36:41: Refactor data loader for faster training
