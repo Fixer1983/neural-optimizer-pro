@@ -216,3 +216,4 @@ Robust Activity at 2023-05-15T14:55:25: Optimize GPU memory allocation
 Robust Activity at 2023-05-15T15:56:16: Merge feature branch into main
 Robust Activity at 2023-05-15T14:53:38: Clean up unused variables and functions
 Robust Activity at 2023-05-16T18:49:39: Address code review feedback
+Robust Activity at 2023-05-16T17:55:16: Benchmark inference latency across devices
