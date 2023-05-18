@@ -229,3 +229,4 @@ Robust Activity at 2023-05-18T15:15:08: Merge feature branch into main
 Robust Activity at 2023-05-18T17:13:20: Benchmark inference latency across devices
 Robust Activity at 2023-05-18T10:45:36: Refactor data loader for faster training
 Robust Activity at 2023-05-18T09:43:46: Add support for transformer-based models
+Robust Activity at 2023-05-18T11:15:45: Update README with new performance metrics
