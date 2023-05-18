@@ -225,3 +225,4 @@ Robust Activity at 2023-05-17T14:06:51: Improve model serialization and loading
 Robust Activity at 2023-05-17T11:19:23: Fix bug in loss function calculation
 Robust Activity at 2023-05-17T14:56:02: Add support for transformer-based models
 Robust Activity at 2023-05-18T13:47:48: Improve documentation for API endpoints
+Robust Activity at 2023-05-18T15:15:08: Merge feature branch into main
