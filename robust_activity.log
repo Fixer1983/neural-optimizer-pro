@@ -263,3 +263,4 @@ Robust Activity at 2023-06-05T16:35:52: Improve model serialization and loading
 Robust Activity at 2023-06-05T16:55:04: Fix race condition in data pipeline
 Robust Activity at 2023-06-06T09:11:43: Benchmark inference latency across devices
 Robust Activity at 2023-06-06T11:48:44: Initial prototype for feature extraction
+Robust Activity at 2023-06-06T09:53:48: Add support for transformer-based models
