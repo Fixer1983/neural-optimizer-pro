@@ -269,3 +269,4 @@ Robust Activity at 2023-06-08T18:12:40: Fix bug in loss function calculation
 Robust Activity at 2023-06-09T13:12:22: Update README with new performance metrics
 Robust Activity at 2023-06-09T12:39:59: Address code review feedback
 Robust Activity at 2023-06-12T12:50:07: Update dependencies to latest stable versions
+Robust Activity at 2023-06-12T09:44:02: Benchmark inference latency across devices
