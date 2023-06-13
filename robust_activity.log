@@ -271,3 +271,4 @@ Robust Activity at 2023-06-09T12:39:59: Address code review feedback
 Robust Activity at 2023-06-12T12:50:07: Update dependencies to latest stable versions
 Robust Activity at 2023-06-12T09:44:02: Benchmark inference latency across devices
 Robust Activity at 2023-06-13T15:17:12: Improve documentation for API endpoints
+Robust Activity at 2023-06-13T16:17:04: Clean up unused variables and functions
