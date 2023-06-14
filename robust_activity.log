@@ -277,3 +277,4 @@ Robust Activity at 2023-06-13T17:26:27: Initial prototype for feature extraction
 Robust Activity at 2023-06-13T18:06:52: Optimize neural network architecture
 Robust Activity at 2023-06-14T17:28:42: Update README with new performance metrics
 Robust Activity at 2023-06-14T14:05:14: Benchmark inference latency across devices
+Robust Activity at 2023-06-14T14:23:33: Implement early stopping in training loop
