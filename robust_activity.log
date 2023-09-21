@@ -418,3 +418,4 @@ Robust Activity at 2023-09-19T13:47:39: Add support for transformer-based models
 Robust Activity at 2023-09-19T12:50:58: Initial prototype for feature extraction
 Robust Activity at 2023-09-19T14:26:18: Sync with upstream repository changes
 Robust Activity at 2023-09-21T18:36:04: Improve model serialization and loading
+Robust Activity at 2023-09-21T13:15:42: Benchmark inference latency across devices
