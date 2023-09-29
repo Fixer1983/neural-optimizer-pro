@@ -442,3 +442,4 @@ Robust Activity at 2023-09-28T10:27:05: Initial prototype for feature extraction
 Robust Activity at 2023-09-28T10:51:51: Update README with new performance metrics
 Robust Activity at 2023-09-28T14:14:25: Improve model serialization and loading
 Robust Activity at 2023-09-28T11:17:37: Benchmark inference latency across devices
+Robust Activity at 2023-09-29T13:10:26: Add unit tests for core modules
