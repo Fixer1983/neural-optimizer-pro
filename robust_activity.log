@@ -450,3 +450,4 @@ Robust Activity at 2023-09-29T10:48:53: Clean up unused variables and functions
 Robust Activity at 2023-09-29T15:37:21: Refactor data loader for faster training
 Robust Activity at 2023-10-02T09:31:38: Fix bug in loss function calculation
 Robust Activity at 2023-10-02T13:10:40: Add support for transformer-based models
+Robust Activity at 2023-10-02T11:34:53: Optimize GPU memory allocation
