@@ -491,3 +491,4 @@ Robust Activity at 2023-10-26T10:46:57: Clean up unused variables and functions
 Robust Activity at 2023-10-26T09:40:43: Fix race condition in data pipeline
 Robust Activity at 2023-10-27T15:51:09: Add unit tests for core modules
 Robust Activity at 2023-10-27T11:37:59: Benchmark inference latency across devices
+Robust Activity at 2023-10-27T12:56:19: Add support for transformer-based models
