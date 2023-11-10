@@ -511,3 +511,4 @@ Robust Activity at 2023-11-08T18:41:09: Initial prototype for feature extraction
 Robust Activity at 2023-11-08T11:00:03: Add support for multi-GPU training
 Robust Activity at 2023-11-10T16:40:37: Add support for multi-GPU training
 Robust Activity at 2023-11-10T16:13:12: Address code review feedback
+Robust Activity at 2023-11-10T14:23:53: Clean up unused variables and functions
