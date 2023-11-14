@@ -520,3 +520,4 @@ Robust Activity at 2023-11-13T13:34:55: Add support for transformer-based models
 Robust Activity at 2023-11-13T09:51:05: Sync with upstream repository changes
 Robust Activity at 2023-11-13T10:24:41: Sync with upstream repository changes
 Robust Activity at 2023-11-13T12:58:41: Fix race condition in data pipeline
+Robust Activity at 2023-11-14T14:17:22: Benchmark inference latency across devices
