@@ -549,3 +549,4 @@ Robust Activity at 2023-12-07T17:50:49: Update README with new performance metri
 Robust Activity at 2023-12-07T12:18:33: Initial prototype for feature extraction
 Robust Activity at 2023-12-07T11:20:04: Benchmark inference latency across devices
 Robust Activity at 2023-12-07T16:27:35: Benchmark inference latency across devices
+Robust Activity at 2023-12-07T16:20:36: Refactor data loader for faster training
