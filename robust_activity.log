@@ -584,3 +584,4 @@ Robust Activity at 2023-12-29T15:19:15: Clean up unused variables and functions
 Robust Activity at 2024-01-03T14:30:32: Optimize GPU memory allocation
 Robust Activity at 2024-01-03T18:27:30: Improve model serialization and loading
 Robust Activity at 2024-01-03T16:02:24: Add unit tests for core modules
+Robust Activity at 2024-01-03T18:16:43: Add support for multi-GPU training
