@@ -11,3 +11,4 @@
 2024 Activity at 2024-01-04T09:13:51: Improve model serialization and loading efficiency
 2024 Activity at 2024-01-04T11:09:38: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-04T11:49:58: Fix potential race condition in the data pipeline
+2024 Activity at 2024-01-04T14:21:17: Benchmark inference latency across multiple devices
