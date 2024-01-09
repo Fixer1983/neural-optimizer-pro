@@ -587,3 +587,4 @@ Robust Activity at 2024-01-03T16:02:24: Add unit tests for core modules
 Robust Activity at 2024-01-03T18:16:43: Add support for multi-GPU training
 Robust Activity at 2024-01-03T12:58:44: Benchmark inference latency across devices
 Robust Activity at 2024-01-09T18:55:11: Implement early stopping in training loop
+Robust Activity at 2024-01-09T10:37:11: Add unit tests for core modules
