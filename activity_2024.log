@@ -32,3 +32,4 @@
 2024 Activity at 2024-01-10T17:33:48: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-01-10T15:03:22: Improve model serialization and loading efficiency
 2024 Activity at 2024-01-10T13:33:50: Clean up unused variables and deprecated functions
+2024 Activity at 2024-01-10T11:58:10: Improve documentation for REST API endpoints
