@@ -599,3 +599,4 @@ Robust Activity at 2024-01-11T10:20:09: Refactor data loader for faster training
 Robust Activity at 2024-01-11T17:36:18: Add unit tests for core modules
 Robust Activity at 2024-01-12T18:52:15: Fix bug in loss function calculation
 Robust Activity at 2024-01-12T10:56:39: Clean up unused variables and functions
+Robust Activity at 2024-01-12T18:53:47: Update README with new performance metrics
