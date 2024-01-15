@@ -601,3 +601,4 @@ Robust Activity at 2024-01-12T18:52:15: Fix bug in loss function calculation
 Robust Activity at 2024-01-12T10:56:39: Clean up unused variables and functions
 Robust Activity at 2024-01-12T18:53:47: Update README with new performance metrics
 Robust Activity at 2024-01-12T18:00:53: Refactor data loader for faster training
+Robust Activity at 2024-01-15T10:21:05: Clean up unused variables and functions
