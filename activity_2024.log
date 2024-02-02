@@ -71,3 +71,4 @@
 2024 Activity at 2024-02-01T10:23:39: Optimize GPU memory allocation for large models
 2024 Activity at 2024-02-01T10:20:29: Update dependencies to latest stable versions (2024)
 2024 Activity at 2024-02-01T13:48:02: Update README with latest performance benchmarks
+2024 Activity at 2024-02-02T12:15:04: Add comprehensive unit tests for core ML modules
