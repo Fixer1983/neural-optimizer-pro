@@ -668,3 +668,4 @@ Robust Activity at 2024-02-21T18:04:36: Add unit tests for core modules
 Robust Activity at 2024-02-21T12:28:02: Fix bug in loss function calculation
 Robust Activity at 2024-02-22T10:18:52: Improve model serialization and loading
 Robust Activity at 2024-02-22T17:09:24: Add unit tests for core modules
+Robust Activity at 2024-02-27T11:22:05: Update README with new performance metrics
