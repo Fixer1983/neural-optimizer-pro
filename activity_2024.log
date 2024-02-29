@@ -131,3 +131,4 @@
 2024 Activity at 2024-02-29T17:10:10: Fix potential race condition in the data pipeline
 2024 Activity at 2024-02-29T16:37:35: Optimize GPU memory allocation for large models
 2024 Activity at 2024-02-29T15:28:21: Improve documentation for REST API endpoints
+2024 Activity at 2024-02-29T10:19:04: Add support for transformer-based models in inference
