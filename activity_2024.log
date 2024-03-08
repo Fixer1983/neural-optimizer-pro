@@ -164,3 +164,4 @@
 2024 Activity at 2024-03-06T16:31:25: Address code review feedback from the senior team
 2024 Activity at 2024-03-06T19:16:22: Improve documentation for REST API endpoints
 2024 Activity at 2024-03-06T11:42:51: Clean up unused variables and deprecated functions
+2024 Activity at 2024-03-08T10:07:24: Add support for multi-GPU training via DDP
