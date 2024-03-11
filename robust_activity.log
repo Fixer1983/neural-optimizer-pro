@@ -693,3 +693,4 @@ Robust Activity at 2024-03-08T14:52:57: Merge feature branch into main
 Robust Activity at 2024-03-11T11:54:58: Refactor data loader for faster training
 Robust Activity at 2024-03-11T09:12:07: Improve model serialization and loading
 Robust Activity at 2024-03-11T18:34:22: Sync with upstream repository changes
+Robust Activity at 2024-03-11T15:17:23: Add unit tests for core modules
