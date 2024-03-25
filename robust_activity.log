@@ -723,3 +723,4 @@ Robust Activity at 2024-03-20T16:52:36: Benchmark inference latency across devic
 Robust Activity at 2024-03-20T11:08:57: Optimize GPU memory allocation
 Robust Activity at 2024-03-25T13:22:50: Initial prototype for feature extraction
 Robust Activity at 2024-03-25T16:38:52: Improve documentation for API endpoints
+Robust Activity at 2024-03-25T12:12:53: Clean up unused variables and functions
