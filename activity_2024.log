@@ -224,3 +224,4 @@
 2024 Activity at 2024-03-25T16:18:12: Add support for transformer-based models in inference
 2024 Activity at 2024-03-25T10:53:17: Benchmark inference latency across multiple devices
 2024 Activity at 2024-03-25T10:32:22: Add support for transformer-based models in inference
+2024 Activity at 2024-03-25T16:20:37: Improve documentation for REST API endpoints
