@@ -247,3 +247,4 @@
 2024 Activity at 2024-03-27T10:07:32: Update README with latest performance benchmarks
 2024 Activity at 2024-03-27T13:31:56: Address code review feedback from the senior team
 2024 Activity at 2024-03-27T15:38:45: Implement early stopping logic in the training loop
+2024 Activity at 2024-03-27T10:08:39: Clean up unused variables and deprecated functions
