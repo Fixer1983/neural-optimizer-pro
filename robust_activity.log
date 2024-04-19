@@ -762,3 +762,4 @@ Robust Activity at 2024-04-18T16:25:52: Fix bug in loss function calculation
 Robust Activity at 2024-04-19T13:54:59: Refactor data loader for faster training
 Robust Activity at 2024-04-19T15:13:03: Clean up unused variables and functions
 Robust Activity at 2024-04-19T16:38:08: Fix bug in loss function calculation
+Robust Activity at 2024-04-19T13:26:58: Improve documentation for API endpoints
