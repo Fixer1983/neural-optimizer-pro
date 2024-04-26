@@ -770,3 +770,4 @@ Robust Activity at 2024-04-25T10:42:29: Add unit tests for core modules
 Robust Activity at 2024-04-25T13:20:27: Address code review feedback
 Robust Activity at 2024-04-25T17:03:59: Add support for transformer-based models
 Robust Activity at 2024-04-25T12:55:28: Update dependencies to latest stable versions
+Robust Activity at 2024-04-26T11:28:34: Optimize GPU memory allocation
