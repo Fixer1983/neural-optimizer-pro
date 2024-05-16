@@ -800,3 +800,4 @@ Robust Activity at 2024-05-15T17:43:52: Merge feature branch into main
 Robust Activity at 2024-05-16T09:45:01: Add support for multi-GPU training
 Robust Activity at 2024-05-16T09:10:54: Refactor data loader for faster training
 Robust Activity at 2024-05-16T14:30:11: Implement early stopping in training loop
+Robust Activity at 2024-05-16T15:17:40: Add support for transformer-based models
