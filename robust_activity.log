@@ -845,3 +845,4 @@ Robust Activity at 2024-06-03T09:09:56: Improve model serialization and loading
 Robust Activity at 2024-06-04T17:31:05: Optimize neural network architecture
 Robust Activity at 2024-06-04T17:51:37: Update dependencies to latest stable versions
 Robust Activity at 2024-06-04T16:34:48: Refactor data loader for faster training
+Robust Activity at 2024-06-05T17:35:58: Add unit tests for core modules
