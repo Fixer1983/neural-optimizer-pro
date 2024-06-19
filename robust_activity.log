@@ -881,3 +881,4 @@ Robust Activity at 2024-06-19T18:01:31: Fix bug in loss function calculation
 Robust Activity at 2024-06-19T13:34:30: Merge feature branch into main
 Robust Activity at 2024-06-19T12:24:36: Implement early stopping in training loop
 Robust Activity at 2024-06-19T14:55:22: Optimize GPU memory allocation
+Robust Activity at 2024-06-19T09:31:38: Add unit tests for core modules
