@@ -910,3 +910,4 @@ Robust Activity at 2024-06-28T16:53:33: Update README with new performance metri
 Robust Activity at 2024-06-28T16:17:41: Benchmark inference latency across devices
 Robust Activity at 2024-07-02T18:16:50: Merge feature branch into main
 Robust Activity at 2024-07-02T15:42:31: Initial prototype for feature extraction
+Robust Activity at 2024-07-02T16:54:48: Refactor data loader for faster training
