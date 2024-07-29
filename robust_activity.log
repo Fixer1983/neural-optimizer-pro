@@ -965,3 +965,4 @@ Robust Activity at 2024-07-26T14:37:55: Refactor data loader for faster training
 Robust Activity at 2024-07-26T09:25:33: Clean up unused variables and functions
 Robust Activity at 2024-07-29T14:25:08: Add support for multi-GPU training
 Robust Activity at 2024-07-29T17:00:39: Add support for transformer-based models
+Robust Activity at 2024-07-29T18:23:19: Benchmark inference latency across devices
