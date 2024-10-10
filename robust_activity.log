@@ -1097,3 +1097,4 @@ Robust Activity at 2024-10-09T14:40:37: Refactor data loader for faster training
 Robust Activity at 2024-10-09T09:46:25: Update dependencies to latest stable versions
 Robust Activity at 2024-10-09T09:54:12: Benchmark inference latency across devices
 Robust Activity at 2024-10-09T16:53:48: Update dependencies to latest stable versions
+Robust Activity at 2024-10-10T15:04:30: Add support for transformer-based models
