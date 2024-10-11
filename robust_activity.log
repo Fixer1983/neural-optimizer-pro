@@ -1102,3 +1102,4 @@ Robust Activity at 2024-10-10T15:58:47: Initial prototype for feature extraction
 Robust Activity at 2024-10-11T09:02:50: Merge feature branch into main
 Robust Activity at 2024-10-11T14:48:59: Benchmark inference latency across devices
 Robust Activity at 2024-10-11T17:42:46: Fix bug in loss function calculation
+Robust Activity at 2024-10-11T12:04:09: Add support for multi-GPU training
