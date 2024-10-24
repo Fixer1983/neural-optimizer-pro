@@ -1125,3 +1125,4 @@ Robust Activity at 2024-10-22T13:37:39: Update README with new performance metri
 Robust Activity at 2024-10-22T11:14:35: Benchmark inference latency across devices
 Robust Activity at 2024-10-22T12:27:55: Benchmark inference latency across devices
 Robust Activity at 2024-10-24T15:40:44: Improve model serialization and loading
+Robust Activity at 2024-10-24T13:35:55: Update dependencies to latest stable versions
