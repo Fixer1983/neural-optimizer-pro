@@ -1150,3 +1150,4 @@ Robust Activity at 2024-11-07T16:06:29: Implement early stopping in training loo
 Robust Activity at 2024-11-08T10:53:23: Update dependencies to latest stable versions
 Robust Activity at 2024-11-08T15:55:10: Update README with new performance metrics
 Robust Activity at 2024-11-08T11:38:01: Improve model serialization and loading
+Robust Activity at 2024-11-08T13:52:45: Add support for multi-GPU training
