@@ -1189,3 +1189,4 @@ Robust Activity at 2024-11-26T18:02:35: Refactor data loader for faster training
 Robust Activity at 2024-11-26T18:49:31: Update README with new performance metrics
 Robust Activity at 2024-11-26T09:13:20: Sync with upstream repository changes
 Robust Activity at 2024-11-26T16:25:50: Add support for multi-GPU training
+Robust Activity at 2024-11-28T14:21:25: Add unit tests for core modules
