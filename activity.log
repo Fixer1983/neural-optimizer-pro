@@ -132,3 +132,4 @@ Activity at 2024-12-05T14:32:27: Update requirements.txt with latest stable vers
 Activity at 2024-12-05T12:21:52: Address feedback from code review
 Activity at 2024-12-06T15:22:00: Address feedback from code review
 Activity at 2024-12-06T17:29:37: Initial research on graph-based RAG
+Activity at 2024-12-06T19:57:36: Optimize memory usage in LLM deployment
