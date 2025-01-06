@@ -14,3 +14,4 @@
 2025 Activity at 2025-01-06T09:14:48: Implement adaptive learning rate scheduling
 2025 Activity at 2025-01-06T17:33:01: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-01-06T19:40:13: Update documentation for new LLMOps features
+2025 Activity at 2025-01-06T10:23:53: Add support for multimodal models in inference engine
