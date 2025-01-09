@@ -1259,3 +1259,4 @@ Robust Activity at 2025-01-08T10:54:23: Add support for transformer-based models
 Robust Activity at 2025-01-08T17:57:47: Update dependencies to latest stable versions
 Robust Activity at 2025-01-09T10:54:45: Fix race condition in data pipeline
 Robust Activity at 2025-01-09T15:10:58: Merge feature branch into main
+Robust Activity at 2025-01-09T12:24:58: Clean up unused variables and functions
