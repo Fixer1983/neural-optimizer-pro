@@ -263,3 +263,4 @@ Activity at 2025-01-07T11:05:32: Fix minor bug in data preprocessing script
 Activity at 2025-01-10T11:26:38: Optimize memory usage in LLM deployment
 Activity at 2025-01-10T10:19:21: Sync with upstream changes
 Activity at 2025-01-10T14:33:06: Optimize inference latency in edge modules
+Activity at 2025-01-10T12:58:56: Initial research on graph-based RAG
