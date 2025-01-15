@@ -280,3 +280,4 @@ Activity at 2025-01-13T16:26:03: Update requirements.txt with latest stable vers
 Activity at 2025-01-14T11:14:52: Initial research on graph-based RAG
 Activity at 2025-01-14T19:28:57: Refactor core ML pipeline for better scalability
 Activity at 2025-01-14T20:06:47: Merge pull request from feature branch
+Activity at 2025-01-15T16:32:52: Fix minor bug in data preprocessing script
