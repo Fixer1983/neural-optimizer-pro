@@ -311,3 +311,4 @@ Activity at 2025-01-20T18:33:20: Enhance compliance checker with new regulatory 
 Activity at 2025-01-20T09:11:04: Optimize memory usage in LLM deployment
 Activity at 2025-01-20T11:30:53: Optimize inference latency in edge modules
 Activity at 2025-01-20T09:16:11: Fix minor bug in data preprocessing script
+Activity at 2025-01-20T16:58:24: Initial research on graph-based RAG
