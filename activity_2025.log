@@ -67,3 +67,4 @@
 2025 Activity at 2025-01-23T17:31:35: Add support for multimodal models in inference engine
 2025 Activity at 2025-01-23T14:57:09: Add comprehensive integration tests for core modules
 2025 Activity at 2025-01-23T13:25:48: Sync with latest upstream repository updates
+2025 Activity at 2025-01-24T10:53:04: Benchmark inference throughput on latest hardware
