@@ -204,3 +204,4 @@
 2025 Activity at 2025-03-17T19:54:11: Update README with 2025 performance benchmarks
 2025 Activity at 2025-03-18T12:10:53: Clean up legacy code and improve modularity
 2025 Activity at 2025-03-18T12:38:44: Fix bug in backpropagation for custom layers
+2025 Activity at 2025-03-18T17:59:11: Add support for distributed training across clusters
