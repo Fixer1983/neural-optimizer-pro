@@ -1389,3 +1389,4 @@ Robust Activity at 2025-03-27T18:51:33: Add support for transformer-based models
 Robust Activity at 2025-03-27T18:09:34: Sync with upstream repository changes
 Robust Activity at 2025-03-28T13:37:24: Add unit tests for core modules
 Robust Activity at 2025-03-28T16:29:20: Add unit tests for core modules
+Robust Activity at 2025-03-31T14:29:44: Add support for multi-GPU training
