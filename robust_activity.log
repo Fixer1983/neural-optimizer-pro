@@ -1399,3 +1399,4 @@ Robust Activity at 2025-04-02T12:30:15: Add support for transformer-based models
 Robust Activity at 2025-04-02T10:01:05: Implement early stopping in training loop
 Robust Activity at 2025-04-03T11:34:20: Initial prototype for feature extraction
 Robust Activity at 2025-04-03T14:31:14: Optimize GPU memory allocation
+Robust Activity at 2025-04-03T14:13:54: Merge feature branch into main
