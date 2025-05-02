@@ -1445,3 +1445,4 @@ Robust Activity at 2025-04-30T16:41:56: Sync with upstream repository changes
 Robust Activity at 2025-04-30T18:10:53: Merge feature branch into main
 Robust Activity at 2025-05-01T09:56:36: Fix bug in loss function calculation
 Robust Activity at 2025-05-01T13:22:58: Improve documentation for API endpoints
+Robust Activity at 2025-05-02T10:43:01: Clean up unused variables and functions
