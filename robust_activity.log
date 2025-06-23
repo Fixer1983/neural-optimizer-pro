@@ -1535,3 +1535,4 @@ Robust Activity at 2025-06-19T15:06:02: Merge feature branch into main
 Robust Activity at 2025-06-19T17:34:54: Improve documentation for API endpoints
 Robust Activity at 2025-06-19T13:30:42: Initial prototype for feature extraction
 Robust Activity at 2025-06-19T10:01:27: Improve model serialization and loading
+Robust Activity at 2025-06-23T14:54:58: Add unit tests for core modules
