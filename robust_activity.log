@@ -1551,3 +1551,4 @@ Robust Activity at 2025-06-26T15:54:39: Update README with new performance metri
 Robust Activity at 2025-07-08T15:02:00: Initial prototype for feature extraction
 Robust Activity at 2025-07-08T13:34:29: Add support for transformer-based models
 Robust Activity at 2025-07-09T09:22:25: Refactor data loader for faster training
+Robust Activity at 2025-07-09T17:58:39: Fix bug in loss function calculation
