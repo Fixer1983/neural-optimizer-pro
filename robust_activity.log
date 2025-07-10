@@ -1553,3 +1553,4 @@ Robust Activity at 2025-07-08T13:34:29: Add support for transformer-based models
 Robust Activity at 2025-07-09T09:22:25: Refactor data loader for faster training
 Robust Activity at 2025-07-09T17:58:39: Fix bug in loss function calculation
 Robust Activity at 2025-07-10T10:10:15: Benchmark inference latency across devices
+Robust Activity at 2025-07-10T14:12:21: Add unit tests for core modules
