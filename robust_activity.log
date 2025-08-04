@@ -1582,3 +1582,4 @@ Robust Activity at 2025-07-30T17:35:13: Initial prototype for feature extraction
 Robust Activity at 2025-07-30T14:53:23: Clean up unused variables and functions
 Robust Activity at 2025-07-31T13:10:01: Address code review feedback
 Robust Activity at 2025-07-31T15:00:53: Fix bug in loss function calculation
+Robust Activity at 2025-08-04T13:28:43: Benchmark inference latency across devices
