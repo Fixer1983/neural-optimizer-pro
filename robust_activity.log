@@ -1857,3 +1857,4 @@ Robust Activity at 2026-01-08T18:07:24: Merge feature branch into main
 Robust Activity at 2026-01-08T13:13:03: Address code review feedback
 Robust Activity at 2026-01-12T15:50:05: Fix bug in loss function calculation
 Robust Activity at 2026-01-12T13:58:44: Merge feature branch into main
+Robust Activity at 2026-01-12T18:58:47: Add support for multi-GPU training
