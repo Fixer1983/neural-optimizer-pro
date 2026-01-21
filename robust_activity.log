@@ -1881,3 +1881,4 @@ Robust Activity at 2026-01-20T16:32:44: Optimize neural network architecture
 Robust Activity at 2026-01-20T18:39:48: Optimize neural network architecture
 Robust Activity at 2026-01-20T16:13:43: Benchmark inference latency across devices
 Robust Activity at 2026-01-20T18:27:16: Initial prototype for feature extraction
+Robust Activity at 2026-01-21T14:13:31: Clean up unused variables and functions
