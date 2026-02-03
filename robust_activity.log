@@ -1913,3 +1913,4 @@ Robust Activity at 2026-01-29T16:23:24: Optimize GPU memory allocation
 Robust Activity at 2026-02-03T17:20:52: Fix bug in loss function calculation
 Robust Activity at 2026-02-03T11:07:55: Optimize GPU memory allocation
 Robust Activity at 2026-02-03T10:43:34: Refactor data loader for faster training
+Robust Activity at 2026-02-03T18:20:15: Clean up unused variables and functions
