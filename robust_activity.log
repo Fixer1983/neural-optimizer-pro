@@ -1921,3 +1921,4 @@ Robust Activity at 2026-02-06T15:21:41: Add support for transformer-based models
 Robust Activity at 2026-02-12T11:06:58: Update dependencies to latest stable versions
 Robust Activity at 2026-02-12T18:00:20: Update dependencies to latest stable versions
 Robust Activity at 2026-02-13T14:10:05: Initial prototype for feature extraction
+Robust Activity at 2026-02-13T10:01:18: Add unit tests for core modules
