@@ -1928,3 +1928,4 @@ Robust Activity at 2026-02-13T17:59:20: Sync with upstream repository changes
 Robust Activity at 2026-02-13T12:39:49: Add support for transformer-based models
 Robust Activity at 2026-02-17T10:46:50: Refactor data loader for faster training
 Robust Activity at 2026-02-17T15:51:46: Refactor data loader for faster training
+Robust Activity at 2026-02-20T14:18:21: Update README with new performance metrics
