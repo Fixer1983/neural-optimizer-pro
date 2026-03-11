@@ -1956,3 +1956,4 @@ Robust Activity at 2026-03-10T12:36:11: Optimize GPU memory allocation
 Robust Activity at 2026-03-10T14:17:10: Initial prototype for feature extraction
 Robust Activity at 2026-03-10T18:18:20: Add support for transformer-based models
 Robust Activity at 2026-03-11T15:08:23: Initial prototype for feature extraction
+Robust Activity at 2026-03-11T15:08:27: Clean up unused variables and functions
