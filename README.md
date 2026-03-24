@@ -1,0 +1,1 @@
+# neural-optimizer-pro\n\nHigh-performance neural network optimization library written in C++.\n\n![Performance](https://img.shields.io/badge/performance-high-orange)\n\n## Build\n```bash\ng++ -O3 main.cpp -o optimizer\n```
